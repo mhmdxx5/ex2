@@ -25,7 +25,7 @@ height:96px;
 }
 #logo
 {
-    background: url(/images/icon1.png) no-repeat left;
+    background: url(../images/icon1.png) no-repeat left;
     background-size: contain;
     width: 48px;
     height: 48px;
@@ -110,28 +110,28 @@ height:96px;
 }
 #icon1
 {
-    background: url(/images/Vector\ \(2\).png) no-repeat left;
+    background: url(../images/Vector\ \(2\).png) no-repeat left;
     width: 13px;
     height: 19px; 
     margin-left: 19px;
 }
 #icon2
 {
-    background: url(/images/Vector\ \(1\).png) no-repeat left;
+    background: url(../images/Vector\ \(1\).png) no-repeat left;
     width: 19px;
     height: 19px;
     margin-left: 10px;
 }
 #icon3
 {
-    background: url(/images/Vector.png) no-repeat left;
+    background: url(../images/Vector.png) no-repeat left;
     width: 31px;
     height: 19px;
     margin-left: 10px;
 }
 #setting-icon
 {
-    background: url(/images/Vector\ \(3\).png) no-repeat left;
+    background: url(../images/Vector\ \(3\).png) no-repeat left;
     width: 19px;
     height: 19px;
     margin-right: 10px;
@@ -212,7 +212,7 @@ footer
 
 #logo1
 {
-    background: url(/images/icon1.png) no-repeat left;
+    background: url(../images/icon1.png) no-repeat left;
     background-size: contain;
     width: 48px;
     height: 48px;
